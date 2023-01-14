@@ -41,3 +41,12 @@
 - Done setting up the partition > Select logical 4.0 GB > Create a new partition > Use as: swap area > Done >;
 - Finish partitioning and write changes to disk > Yes > Continue> Install the GRUB boot loader (Yes) > Select /dev/sda >;
 - Reinstall the machine.
+
+## Updating system
+
+1. **CTRL + ALT + T** (opening terminal) 
+2. **sudo su** (superuser does) => temporary mode of root
+3. **apt update** (requesting from the internet all potential packages to upgrade)
+4. **apt upgrade** (literally upgrading with the latest picked packages)
+
+**nano /etc/apt/sources.list** => checking which repository .deb Kali searches for updates
