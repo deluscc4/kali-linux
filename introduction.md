@@ -20,7 +20,7 @@
 
 1. Live CD: Flash drive or CD-ROM;
 - Rufus: https://rufus.ie/pt_BR/
-- Kali ISO (Identical Storage Image of optical media): https://www.kali.org/get-kali/
+- Kali (Bare Metal) ISO (Identical Storage Image of optical media): https://www.kali.org/get-kali/
 - Device > Your physical media;
 - Boot selection > ISO;
 
