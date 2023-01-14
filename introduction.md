@@ -22,17 +22,16 @@
 - Rufus: https://rufus.ie/pt_BR/
 - Kali (Bare Metal) ISO (Identical Storage Image of optical media): https://www.kali.org/get-kali/
 - Device > Your physical media;
-- Boot selection > ISO;
+- Boot selection > ISO;<br>
+**Note**: or you can format your pc with the Rufus and use Kali Linux as your unique OS, direct installation.
 
 2. Virtual machine: VirtualBox or VMWare;
 - VirtualBox: https://www.virtualbox.org/wiki/Downloads
-- Kali ISO (Identical Storage Image of optical media): https://www.kali.org/get-kali/
+- Kali (VM) ISO (Identical Storage Image of optical media): https://www.kali.org/get-kali/
 - VM Import > ISO;
 - Login: kali | Password: kali.
 
-3. Direct installation, your only OS;
-
-4. Dual-boot: when starting the computer, you choose which one you desire.
+3. Dual-boot: when starting the computer, you choose which one you desire.
 - Windows search: diskmgmt.msc > Right click on (C:) > Shrink volume > 50 GB;
 - Right click on 'Unallocated' > New Simple Volume;
 - Start a boot with your Live CD > Graphical install;
