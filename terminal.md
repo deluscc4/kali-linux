@@ -26,7 +26,8 @@ CTRL + SHIFT + W => closing tab <br>
 
 ### Archives and directories
 
-´``[~]`` = Home
+Directories are in blue (**d**rwxr-xr-x), files (-rw-r--r--) are in white. <br>
+``[~]`` = Home <br>
 ``ls`` => Listing directories in a horizontal line<br>
 ``ls -l`` => Listing directories in a list <br>
 ``ls -a`` => Listing hidden archives in the folder <br>
@@ -37,7 +38,7 @@ CTRL + SHIFT + W => closing tab <br>
 ``cd <directory_name>`` => Changing to specified directory <br>
 ``cd ..`` => Going back a directory or ``cd ../..`` two directories <br>
 ``mkdir <directory_name>`` => Making a new directory <br>
-Directories are in blue (**d**rwxr-xr-x), files (-rw-r--r--) are in white. <br> 
+ 
 
 
 
