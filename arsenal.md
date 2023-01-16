@@ -9,6 +9,9 @@ Such as OSINT (Open Source Intelligence): the act of gathering and analyzing pub
 ### 02 - Vulnerability Analysis
 Such as **nikto** to check if e.g. WordPress is running in a vulnerable version or **nmap** which scans ports and devices into a network.
 
+**zap** tool <br>
+sudo apt install **zaproxy**
+
 ### 03 - Web Application Analysis
 Such as **burpsuite** to intercept and modify requests or **sqlmap** to explore SQLinjection.
 
