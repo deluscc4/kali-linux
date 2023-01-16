@@ -82,7 +82,17 @@ Directories are in blue (**d**rwxr-xr-x), files (-rw-r--r--) are in white. <br>
  
  ``wget <picture_URL>`` => Downloading a picture from the internet
  
+ ### Text editor
  
+ ``nano <archive_name>`` => Using Nano text editor <br>
+ ``CTRL + O`` => Saving
+ ``CTRL + X`` => Exiting
+ 
+ ``vim <archive_name>`` => Using Vim text editor <br>
+ ``insert`` to start typing <br>
+ ``esc`` + ``:wq`` to save and quit <br>
+ ``esc`` + ``:wq!`` to save and forcibly quit also from another opened editor <br>
+  ``esc`` + ``:q`` to only quit <br>
  
 
 
