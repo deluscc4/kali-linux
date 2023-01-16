@@ -42,7 +42,7 @@ Directories are in blue (**d**rwxr-xr-x), files (-rw-r--r--) are in white. <br>
 ``mv <archive_name> <new_archive_name>`` => Renaming an archive <br>
 ``cp <archive> <directory>`` => Duplicate file to another directory or ``cp <archive> <directory>/<new_name>`` with a new file name <br>
 ``rm <archive>`` => Deleting a file <br>
-``rm -rf <directory> => Deleting a directory <br>
+``rm -rf <directory>`` => Deleting a directory <br>
 
 ### Query commands
 
