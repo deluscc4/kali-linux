@@ -33,3 +33,12 @@ Maintaining access, cleaning logs, privilege escalation.
 ### 10 - Social Engineering Tools
 Fake e-mails, fake pages, etc.
 
+**Social Engineering Toolkit (Root)**
+
+1) Website Attack Vectors
+2) Credential Harvester Attack Method
+3) Web Templates
+4) Google
+5) Copy IP to send it
+6) Wait for the entered logs in the respective site inputs
+
