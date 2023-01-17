@@ -21,6 +21,13 @@ Such as wordlists, brute force tools (e.g.: hydra), hash identifiers, passing th
 ### 05 - Wireless Attacks
 Cracking wifi and being able to observe all the data that is being sent via the network.
 
+**wifite** - tool
+
+1. Wifi network - USB Wireless Adapter (Alfa)
+2. Handshake => Device gives hand (password) to be shaked and start communication with the wifi network
+3. Picking up in the act (handshake) the encrypted password and compare it with an encrypted wordlist
+4. If it matches => You have found the password
+
 ### 06 - Reverse Engineering
 Checking application's source code to find vulnerable points.
 
