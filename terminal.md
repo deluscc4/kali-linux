@@ -94,7 +94,8 @@ Directories are in blue (**d**rwxr-xr-x), files (-rw-r--r--) are in white. <br>
  ``esc`` + ``:wq!`` to save and forcibly quit also from another opened editor <br>
   ``esc`` + ``:q`` to only quit <br>
  
-
+ GuiaFoca: https://www.guiafoca.org/ <br>
+ Explain Shell: https://explainshell.com/
 
 
 
